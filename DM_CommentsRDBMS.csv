@@ -1,0 +1,7 @@
+ObjectID,NumOID,Type,Sequence,Text
+78C4082F-3AA3-A26D-A483-A8A37C5CCDD0,84,Column,1,"ID do cliente",
+2D9CEE5E-1470-FC15-6A30-18ED5600AE37,96,Column,1,"Idade do Cliente",
+9C6F98C5-E759-9BD1-58E5-C2109A4A3718,101,Column,1,"Nome completo do Cliente",
+72F4D9D5-55C3-10B2-CF51-C56BC9C96F3B,108,Column,1,"Masculino (M) e Feminino (F)",
+1B538F80-F8CB-7FF8-3CBB-A37E64402236,110,Column,1,"Tipo: Fornecedor de Peças (P) ou Fornecedor de Carros (C)",
+1E6AFAFF-1280-646C-31F8-59E8ADCEF8B1,112,Column,1,"UF Origem do Fornecedor",
